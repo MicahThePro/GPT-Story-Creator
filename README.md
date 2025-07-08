@@ -8,17 +8,17 @@ This is a terminal-based interactive story generator where YOU control the chaos
 
 ## 🛠 FEATURES
 
-- ✅ Interactive, one-line-at-a-time GPT storytelling  
-- ✅ Choose your class (Math, PE, AVID, ELA, etc.)  
-- ✅ Input your own custom story topic  
-- ✅ Assign **items** to characters (e.g. `Micah: Jetpack, Banana Cannon, Laser Pen`)  
-- ✅ Auto-random characters (students + teachers)  
-- ✅ Optionally includes 🔥 **Micah Lore** when he's part of the story  
-- ✅ Smart memory of the last few lines for better continuity  
-- ✅ Built-in commands (`next`, `stop`, `exit`, `reset-key`)  
-- ✅ Asks for your OpenAI API key on first launch and saves it securely  
-- ✅ Dialogue-only format: **funny, chaotic, and short-form Gen Z madness**  
-- ✅ Runs with GPT-4o-mini for low latency and high vibes  
+- ✅ Interactive, one-line-at-a-time GPT storytelling
+- ✅ Choose your class (Math, PE, AVID, ELA, etc.)
+- ✅ Input your own custom story topic
+- ✅ Assign **items** to characters (e.g. `Micah: Jetpack, Banana Cannon, Laser Pen`)
+- ✅ Auto-random characters (students + teachers)
+- ✅ Optionally includes 🔥 **Micah Lore** when he's part of the story
+- ✅ Smart memory of the last few lines for better continuity
+- ✅ Built-in commands (`next`, `stop`, `exit`, `reset-key`)
+- ✅ Asks for your OpenAI API key on first launch and saves it securely
+- ✅ Dialogue-only format: **funny, chaotic, and short-form Gen Z madness**
+- ✅ Runs with GPT-4o-mini for low latency and high vibes
 
 ---
 
@@ -32,12 +32,18 @@ python story-creator.py
 
 ---
 
+## 📥 DOWNLOAD
+
+You can grab the latest version from the **[Releases](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases)** section.
+
+---
+
 ## 💬 EXAMPLE PROMPTS
 
-- "Teacher catching student cheating on final exam"  
-- "Band class descends into total musical chaos"  
-- "Kid trying to escape detention using a rubber chicken and an axe"  
-- "Micah invents a time machine to skip PE class"  
+- `"Teacher catching student cheating on final exam"`
+- `"Band class descends into total musical chaos"`
+- `"Kid trying to escape detention using a rubber chicken and an axe"`
+- `"Micah invents a time machine to skip PE class"`
 
 ---
 
