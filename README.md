@@ -34,7 +34,7 @@ python story-creator.py
 
 ## 📥 DOWNLOAD
 
-You can grab the latest version from the **[Releases](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases)** section.
+You can grab the latest version from the **[Releases](https://github.com/MicahThePro/GPT-Story-Creator/releases)** section.
 
 ---
 
